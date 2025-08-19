@@ -29,3 +29,7 @@ It generates **role-specific 30-day learning roadmaps**, answers onboarding-rela
 - **Frontend**: Streamlit  
 
 ---
+
+## Getting Started
+git clone https://github.com/YOUR_USERNAME/onboarding-mvp.git
+cd onboarding-mvp
