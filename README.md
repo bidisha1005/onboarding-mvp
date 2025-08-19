@@ -31,5 +31,15 @@ It generates **role-specific 30-day learning roadmaps**, answers onboarding-rela
 ---
 
 ## Getting Started
-git clone https://github.com/YOUR_USERNAME/onboarding-mvp.git
-cd onboarding-mvp
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/your-username/onboarding-mvp.git
+   cd mini_project_rhythm_wave
+   ```
+2. **Create a virtual environment**
+   ```bash
+   python -m venv .venv
+   source .venv/bin/activate  # macOS/Linux
+   .venv\Scripts\activate     # Windows
+  ```
