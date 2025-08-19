@@ -42,4 +42,17 @@ It generates **role-specific 30-day learning roadmaps**, answers onboarding-rela
    python -m venv .venv
    source .venv/bin/activate  # macOS/Linux
    .venv\Scripts\activate     # Windows
-  ```
+   ```
+3. **Install dependencies**
+   ```bash
+   pip install -r requirements.txt
+   ```
+4. **Setup environment variables**
+   Create a .env file
+   ```ini
+   GROQ_API_KEY=your_api_key_here
+   ```
+5. **Run the app**
+   ```bash
+   streamlit run app1.py
+   ```
